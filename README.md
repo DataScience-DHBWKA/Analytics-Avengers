@@ -1,6 +1,7 @@
 # Analytics-Avengers
 ## Portfolio
-### Namen der Gruppenmitglieder
+### Electric Vehicle Charging in Germany
+#### Namen der Gruppenmitglieder
 Lukas Gögele
 
 Ömer Gürleyen
